@@ -139,7 +139,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
           <input id="password-input" type="password" name="password" placeholder="Password" required class="form-input" />
           <i id="password-toggle" class="fas fa-eye password-toggle hidden"></i>
         </div>
-        <button id="login-button" type="submit" class="form-button">Login</button>
+        <button id="login-button" type="submit" class="form-button">Mausk</button>
       </form>
       <p class="mt-5 text-center form-text">
         First time here?
